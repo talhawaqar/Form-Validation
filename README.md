@@ -12,7 +12,7 @@ Form validations using vanila javascript
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://talhawaqar.github.io/Form-Validation/)
 
 ## Authors
 
